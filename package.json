@@ -1,0 +1,31 @@
+{
+  "name": "@angeloevangelista/card",
+  "version": "1.0.0",
+  "description": "A personal card for Angelo Evangelista (@angeloevangelista)",
+  "main": "card.js",
+  "bin": {
+    "card": "./card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeloevangelista/card"
+  },
+  "scripts": {
+    "test": "node card.js"
+  },
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
+  },
+  "keywords": [
+    "business card",
+    "npm card",
+    "npm",
+    "npx"
+  ],
+  "author": {
+    "name": "Angelo Evangelista",
+    "email": "angeloevan.ane@gmail.com"
+  },
+  "license": "MIT"
+}
