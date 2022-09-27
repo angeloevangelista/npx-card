@@ -6,12 +6,12 @@ const chalk = require("chalk");
 
 const data = {
   name: chalk.red("                          Angelo Evangelista"),
-  work: `${chalk("         FullStack Developer at")} ${chalk.yellowBright("Foursys")}`,
+  work: `${chalk("         DevOps Engineer at")} ${chalk.yellowBright("Lad2Dev")}`,
 
   github: chalk.gray("https://github.com/") + chalk.green("angeloevangelista"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.green("angelo-evangelista-5474a2177"),
   email: chalk.green("angeloevan.ane@gmail.com"),
-  skills: chalk.redBright("C#", "HTML", "CSS", "JS", "TS", "NodeJS", "ReactJs", "Angular"),
+  skills: chalk.redBright("C#", "HTML", "CSS", "JS", "TS", "NodeJS", "ReactJs", "Angular", "Docker"),
   npx: chalk.red("npx @angeloevangelista/card"),
 
   labelWork: ("         "),
